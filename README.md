@@ -38,7 +38,6 @@ Los algoritmos fueron evaluados sobre tres conjuntos de datos:
 Iris/
 Moons/
 Circles/
-images/
 requirements.txt
 README.md
 ```
