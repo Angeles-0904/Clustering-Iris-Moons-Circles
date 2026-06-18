@@ -1,9 +1,9 @@
 # Clustering-Iris-Moons-Circles
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- ALMANZA MAMANI EDITH NAYELY
+- GRUBER COAQUIRA GIAN CARLOS
+- QUISPE CACERES JUAN EFRAIN
 - QUISPE QUISPE SHAMELY ANGELES
 
 ## Descripción
